@@ -4,7 +4,7 @@ Pahal Dave – IS 436 Portfolio
 A personal portfolio website built with Bootstrap 5 for IS 436 (Structured Systems Analysis & Design) at UMBC.
 
 Live Site: 
-🔗 https://pahal04.github.io/is436_portfolio/
+🔗 https://pahal04.github.io/IS436-portfolio/
 
 Pages:
 Home – Introduction, skills overview, and featured projects
